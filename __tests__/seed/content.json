@@ -1,8 +1,63 @@
 {
   "docs": [
     {
+      "_id": "game:xyz1",
+      "name": "Xyz1",
+      "category": "listening"
+    },
+    {
+      "_id": "game:xyz2",
+      "name": "Xyz2",
+      "category": "listening"
+    },
+    {
+      "_id": "game:xyz3",
+      "name": "Xyz3",
+      "category": "listening"
+    },
+    {
+      "_id": "game:xyz4",
+      "name": "Xyz4",
+      "category": "listening"
+    },
+    {
+      "_id": "game:xyz5",
+      "name": "Xyz5",
+      "category": "writing"
+    },
+    {
+      "_id": "game:xyz6",
+      "name": "Xyz6",
+      "category": "writing"
+    },
+    {
+      "_id": "game:xyz7",
+      "name": "Xyz7",
+      "category": "writing"
+    },
+    {
+      "_id": "game:xyz8",
+      "name": "Xyz8",
+      "category": "writing"
+    },
+    {
       "_id": "game:alphamon",
       "name": "Alphamon",
+      "category": "reading"
+    },
+    {
+      "_id": "game:alphamon1",
+      "name": "Alphamon1",
+      "category": "reading"
+    },
+    {
+      "_id": "game:alphamon2",
+      "name": "Alphamon2",
+      "category": "reading"
+    },
+    {
+      "_id": "game:alphamon3",
+      "name": "Alphamon3",
       "category": "reading"
     },
     {
@@ -11,8 +66,18 @@
       "category": "maths"
     },
     {
+      "_id": "game:connect-the-dot1",
+      "name": "Connect The Dots1",
+      "category": "maths"
+    },
+    {
       "_id": "game:grocery-store",
       "name": "Grocery Store",
+      "category": "maths"
+    },
+    {
+      "_id": "game:grocery-store2",
+      "name": "Grocery Store2",
       "category": "maths"
     },
     {
@@ -22,6 +87,78 @@
     {
       "_id": "storytitle:phantasmagoria",
       "title": "Phantasmagoria"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland2",
+      "title": "Alice in Wonderland2"
+    },
+    {
+      "_id": "storytitle:phantasmagoria2",
+      "title": "Phantasmagoria2"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland3",
+      "title": "Alice in Wonderland3"
+    },
+    {
+      "_id": "storytitle:phantasmagoria3",
+      "title": "Phantasmagoria3"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland4",
+      "title": "Alice in Wonderland4"
+    },
+    {
+      "_id": "storytitle:phantasmagoria4",
+      "title": "Phantasmagoria4"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland5",
+      "title": "Alice in Wonderland5"
+    },
+    {
+      "_id": "storytitle:phantasmagoria6",
+      "title": "Phantasmagoria6"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland7",
+      "title": "Alice in Wonderland7"
+    },
+    {
+      "_id": "storytitle:phantasmagoria8",
+      "title": "Phantasmagoria8"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland9",
+      "title": "Alice in Wonderland9"
+    },
+    {
+      "_id": "storytitle:phantasmagoria10",
+      "title": "Phantasmagoria10"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland11",
+      "title": "Alice in Wonderland11"
+    },
+    {
+      "_id": "storytitle:phantasmagoria12",
+      "title": "Phantasmagoria12"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland13",
+      "title": "Alice in Wonderland13"
+    },
+    {
+      "_id": "storytitle:phantasmagoria14",
+      "title": "Phantasmagoria14"
+    },
+    {
+      "_id": "storytitle:alice-in-wonderland15",
+      "title": "Alice in Wonderland15"
+    },
+    {
+      "_id": "storytitle:phantasmagoria16",
+      "title": "Phantasmagoria16"
     },
     {
       "_id": "story:alice-in-wonderland",
