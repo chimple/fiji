@@ -77,17 +77,16 @@ export default class Quiz extends Component {
 
 
     return (
-
+      <View style={{alignContent: 'center', paddingTop: 10}}>
       <View
         style={{
           justifyContent: 'center',
-          alignItems: 'center',
-          paddingBottom: this.props.height * 0.01
+          alignItems: 'center'
         }}
       >
 
 
-        <Animatable.View ref="questionView">
+        <Animatable.View ref="questionView" style={{ margin: this.props.height * 0.01}}>
           <Tile
             id={0}
             tileColor='#24B2EA'
@@ -155,17 +154,12 @@ export default class Quiz extends Component {
 
 
       </View>
+      </View>
     );
   }
 }
 
-const styles = {
-  container: {
-    flex: 1,
-    alignContent: 'space-between'
-  },
 
-};
 
 Quiz.propTypes = {
   data: PropTypes.object,
